@@ -278,4 +278,4 @@ Built by **Your Name** — feel free to connect on [LinkedIn](https://linkedin.c
 
 ---
 
-*Built with ❤️ using Python, scikit-learn, and a passion for music.*
+*Built with using Python, scikit-learn, and a passion for music.*
