@@ -274,7 +274,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 👤 Author
 
-Built by **Your Name** — feel free to connect on [LinkedIn](https://linkedin.com) or [Twitter](https://twitter.com).
+Built by **Jakkula Pallavi** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/pallavi-jakkula/)
 
 ---
 
